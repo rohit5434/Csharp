@@ -1,0 +1,15 @@
+/workspaces/Csharp/HelloApp/bin/Debug/net10.0/HelloApp
+/workspaces/Csharp/HelloApp/bin/Debug/net10.0/HelloApp.deps.json
+/workspaces/Csharp/HelloApp/bin/Debug/net10.0/HelloApp.runtimeconfig.json
+/workspaces/Csharp/HelloApp/bin/Debug/net10.0/HelloApp.dll
+/workspaces/Csharp/HelloApp/bin/Debug/net10.0/HelloApp.pdb
+/workspaces/Csharp/HelloApp/obj/Debug/net10.0/HelloApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Csharp/HelloApp/obj/Debug/net10.0/HelloApp.AssemblyInfoInputs.cache
+/workspaces/Csharp/HelloApp/obj/Debug/net10.0/HelloApp.AssemblyInfo.cs
+/workspaces/Csharp/HelloApp/obj/Debug/net10.0/HelloApp.csproj.CoreCompileInputs.cache
+/workspaces/Csharp/HelloApp/obj/Debug/net10.0/HelloApp.sourcelink.json
+/workspaces/Csharp/HelloApp/obj/Debug/net10.0/HelloApp.dll
+/workspaces/Csharp/HelloApp/obj/Debug/net10.0/refint/HelloApp.dll
+/workspaces/Csharp/HelloApp/obj/Debug/net10.0/HelloApp.pdb
+/workspaces/Csharp/HelloApp/obj/Debug/net10.0/HelloApp.genruntimeconfig.cache
+/workspaces/Csharp/HelloApp/obj/Debug/net10.0/ref/HelloApp.dll
